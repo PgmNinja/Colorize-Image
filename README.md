@@ -9,3 +9,7 @@ In this project, you will develop a machine learning model that can automaticall
 3. Graphic Designing and Colorization Techniques: Use graphic designing techniques to create visually appealing and realistic colorizations of the grayscale images. This can involve using tools such as Adobe Photoshop and Illustrator to create color overlays and blending modes to add color to the grayscale images.
 4. Machine Learning Model Development: Develop a machine learning model that can take a grayscale image as input and output a corresponding colorized image. This can involve training a model on the preprocessed dataset using techniques such as CNNs or RNNs.
 5. Model Evaluation and User Interface Design: Evaluate the performance of the model using metrics such as accuracy, F1 score, and mean squared error (MSE). Develop a web-based user interface that allows users to upload their own grayscale images and generate corresponding colorized images. The user interface can also allow users to customize the colorization design by selecting different color schemes and adjustment options.
+
+*sources:*
+https://pyimagesearch.com/2019/02/25/black-and-white-image-colorization-with-opencv-and-deep-learning/
+http://richzhang.github.io/colorization/
