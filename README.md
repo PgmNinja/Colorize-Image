@@ -13,3 +13,12 @@ In this project, you will develop a machine learning model that can automaticall
 *sources:*
 https://pyimagesearch.com/2019/02/25/black-and-white-image-colorization-with-opencv-and-deep-learning/
 http://richzhang.github.io/colorization/
+https://emilwallner.medium.com/colorize-b-w-photos-with-a-100-line-neural-network-53d9b4449f8d
+
+
+
+*colab:*
+https://colab.research.google.com/drive/1aY_rpqnoouC1Z09wNq-8zdMEGgMGbo5D#scrollTo=LH0ZAFXfsX42
+
+*doc:*
+https://docs.google.com/document/d/1F_uTGpbQyhU4P7VptSewlPyeFXe5RDyqJBRBzD8ZpWA/edit
