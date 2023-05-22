@@ -3,7 +3,6 @@ import os
 import urllib.request
 from io import BytesIO
 
-from google.oauth2 import service_account
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseUpload
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -35,7 +34,7 @@ def download_image():
 
 	for i in range(1, image_num + 1):
 		i = str(i)
-		file_name = f'colorize-image-data-{i}.jpg'
+		file_name = f'colorize-image-data-v6-{i}.jpg'
 		print(f'Downloading {file_name}...')
 		url = f'https://picsum.photos/{image_dim[0]}/{image_dim[1]}?random'
 		response = urllib.request.urlopen(url)
