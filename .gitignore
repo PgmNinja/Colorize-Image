@@ -19,4 +19,3 @@ Thumbs.db
 # Ignore logs and temporary files
 *.log
 *.tmp
-/training_set/
