@@ -19,6 +19,7 @@ https://emilwallner.medium.com/colorize-b-w-photos-with-a-100-line-neural-networ
 
 *colab:*
 https://colab.research.google.com/drive/1aY_rpqnoouC1Z09wNq-8zdMEGgMGbo5D#scrollTo=LH0ZAFXfsX42
+https://gvxnnwpfgnvx.labs.coursera.org/notebooks/new_project.ipynb - notebook
 
 *doc:*
 https://docs.google.com/document/d/1F_uTGpbQyhU4P7VptSewlPyeFXe5RDyqJBRBzD8ZpWA/edit
